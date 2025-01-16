@@ -6,8 +6,14 @@ This repository provides the dataset and code for predicting the energy consumpt
 The training and testing datasets are available in the 'dataset' directory in CSV format. The testing dataset is divided into five separate files, each representing one day. Each file contains minute-by-minute data on air conditioner operational and corresponding indoor-outdoor weather parameters.
 
 ## Using our system
+To install the dependencies listed in the requirements.txt file, use the following command in your terminal or command prompt (Please make sure you have Python and pip installed on your system.):
+```
+pip install -r requirements.txt
+```
+
+
 - **Training.ipynb**  
-  - This notebook contains the code for training the energy consumption prediction model.
+  - Use this notebook to train the energy consumption prediction model.
 
 - **Testing.ipynb**  
   - Use this notebook to evaluate the system's performance across the test days.
