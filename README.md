@@ -1,4 +1,4 @@
-# Development of an IoT-Driven Deep Learning Framework for Smart Energy Cost Prediction in Commercial Buildings
+# Development of an IoT-Driven Deep Learning Framework for Smart Energy Prediction in Commercial Buildings
 
 This repository provides the dataset and code for predicting the energy consumption of air conditioners in an office room environment. Additionally, it includes an energy optimization strategy designed to balance energy efficiency and occupant thermal comfort.
 
